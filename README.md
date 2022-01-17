@@ -4,7 +4,7 @@ Cet applications sert a publié une icone personnalisé sur le workshop Steam Ru
 
 ## Tutoriels
 
-Regardez cet vidéo youtube et vous explique comment marche cet applications [pip](https://youtu.be/r0R29Beux3U)
+Regardez cet vidéo youtube et vous explique comment marche cet applications [https://youtu.be/r0R29Beux3U](https://youtu.be/r0R29Beux3U)
 
 ## Fonctionnements
 
