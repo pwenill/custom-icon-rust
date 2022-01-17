@@ -10,6 +10,9 @@ Regardez cet vidéo youtube et vous explique comment marche cet applications [pi
 
 ```
 Dans un premier temp applications récupérer la liste des fichiés présent dans le dossier %temp% de votre ordinateur.
-Lorsque que vous appuierais sur le bouton "Publish" dans Atelier Rust un fichier temporaire vas ce crée a ce moment applications le détecte.
-Il copie le fichier "icon.png" et "icon_background.png" du dossier mit auparavant dans le nouveau dossier %temp% et remplacerais l'anciens fichier "icon" et "icon_background". ​
-``
+Lorsque que vous appuierais sur le bouton "Publish" dans Atelier Rust un fichier temporaire vas ce crée 
+a ce moment applications le détecte.
+
+Il copie le fichier "icon.png" et "icon_background.png" du dossier mit auparavant dans le nouveau dossier %temp% et remplacerais 
+l'anciens fichier "icon" et "icon_background". ​
+```
