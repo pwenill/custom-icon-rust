@@ -1,0 +1,14 @@
+C:\Users\calpe\source\repos\CustomIconRust\CustomIconRust\bin\Debug\CustomIconRust.exe.config
+C:\Users\calpe\source\repos\CustomIconRust\CustomIconRust\bin\Debug\CustomIconRust.exe
+C:\Users\calpe\source\repos\CustomIconRust\CustomIconRust\bin\Debug\CustomIconRust.pdb
+C:\Users\calpe\source\repos\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.csproj.AssemblyReference.cache
+C:\Users\calpe\source\repos\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.csproj.CoreCompileInputs.cache
+C:\Users\calpe\source\repos\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.exe
+C:\Users\calpe\source\repos\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.pdb
+D:\Téléchargements\CustomIconRust\CustomIconRust\bin\Debug\CustomIconRust.exe.config
+D:\Téléchargements\CustomIconRust\CustomIconRust\bin\Debug\CustomIconRust.exe
+D:\Téléchargements\CustomIconRust\CustomIconRust\bin\Debug\CustomIconRust.pdb
+D:\Téléchargements\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.csproj.AssemblyReference.cache
+D:\Téléchargements\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.csproj.CoreCompileInputs.cache
+D:\Téléchargements\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.exe
+D:\Téléchargements\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.pdb
