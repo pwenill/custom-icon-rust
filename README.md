@@ -1,6 +1,6 @@
 # Custom Icon Item Rust
 
-Cet applications sert a publié une icone personnalisé sur le workshop Steam Rust
+This application made in C# sert published a custom image on the steam workshop to be used for items in Rust
 
 ## Tutoriels
 
