@@ -12,3 +12,10 @@ D:\Téléchargements\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.cspr
 D:\Téléchargements\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.csproj.CoreCompileInputs.cache
 D:\Téléchargements\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.exe
 D:\Téléchargements\CustomIconRust\CustomIconRust\obj\Debug\CustomIconRust.pdb
+D:\Téléchargements\custom-icon-rust-main\Source-Code\CustomIconRust\bin\Debug\CustomIconRust.exe.config
+D:\Téléchargements\custom-icon-rust-main\Source-Code\CustomIconRust\bin\Debug\CustomIconRust.exe
+D:\Téléchargements\custom-icon-rust-main\Source-Code\CustomIconRust\bin\Debug\CustomIconRust.pdb
+D:\Téléchargements\custom-icon-rust-main\Source-Code\CustomIconRust\obj\Debug\CustomIconRust.csproj.AssemblyReference.cache
+D:\Téléchargements\custom-icon-rust-main\Source-Code\CustomIconRust\obj\Debug\CustomIconRust.csproj.CoreCompileInputs.cache
+D:\Téléchargements\custom-icon-rust-main\Source-Code\CustomIconRust\obj\Debug\CustomIconRust.exe
+D:\Téléchargements\custom-icon-rust-main\Source-Code\CustomIconRust\obj\Debug\CustomIconRust.pdb

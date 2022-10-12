@@ -129,16 +129,19 @@ namespace CustomIconRust
                             Headers();
                             Message("The file was found, it is ready to be modified", ConsoleColor.Green);
 
-                            if (Directory.GetFiles(item).Length == 3)
+                            while(boucle_copy)
                             {
-                                File.Copy(_file, item + "/icon.png", true);
-                                File.Copy(_file, item + "/icon_background.png", true);
+                                if (Directory.GetFiles(item).Length == 3)
+                                {
+                                    File.Copy(_file, item + "/icon.png", true);
+                                    File.Copy(_file, item + "/icon_background.png", true);
 
-                                Console.Clear();
-                                Headers();
-                                Message("The new image file has been published", ConsoleColor.Green);
-                                boucle_copy = false;
-                                boucle_search = false;
+                                    Console.Clear();
+                                    Headers();
+                                    Message("The new image file has been published", ConsoleColor.Green);
+                                    boucle_copy = false;
+                                    boucle_search = false;
+                                }
                             }
                         }
                     }
